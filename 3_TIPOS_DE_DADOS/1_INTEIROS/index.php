@@ -7,6 +7,7 @@
     echo 7;
     echo"<br>";
     echo 12 -7;
+    echo"<br>";
     
     echo"<br>";
 
